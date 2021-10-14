@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 -   📌 I'm based in Pisa, Tuscany, Italy
--   🔭 I have a BSc degree in Physics
+-   🔭 I (almost) have a BSc degree in Physics
 -  📊 Currently Studying for MSc degree in Data Analysis
 
 -  🇮🇹 I speak fluently Italian, English 🇬🇧 and German 🇩🇪
