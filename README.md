@@ -1,4 +1,4 @@
-# Hey there, call me Zenith 🧭
+# Hey there, Zenith here 🧭
 
 ### 👨🏻‍💻 About Me
 
