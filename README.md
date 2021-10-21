@@ -1,4 +1,4 @@
-# Hey there, Zenith here 🧭
+# Hey there, Zenith here 🌊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
