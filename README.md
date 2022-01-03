@@ -1,7 +1,7 @@
 # Hey there, Zenith here 🌊
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="270" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="250" />
   
 -  📌 I'm based in Pisa, Tuscany, Italy
 -  🔭 I have a BSc degree in Physics
