@@ -1,5 +1,4 @@
 # Hey there, Zenith here 🌊
-## 👨🏻‍💻 About Me
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --->
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="255" />
