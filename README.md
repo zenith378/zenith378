@@ -12,6 +12,10 @@
 -  🎧 Check what I listen to on <a href="https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786" target="_blank">Spotify <img alt="Zenith's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
 -  ♟️ Feel free to contact me anytime
 
+  <br />
+  <br />
+  
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord" width="390" />
 </a>
