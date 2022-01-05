@@ -17,7 +17,7 @@
   
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord" width="390" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord" width="420" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact" />
