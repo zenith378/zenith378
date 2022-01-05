@@ -12,14 +12,10 @@
 -  🎧 Check what I listen to on <a href="https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786" target="_blank">Spotify <img alt="Zenith's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /></a>
 -  ♟️ Feel free to contact me anytime
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact" />
+</a>
+
