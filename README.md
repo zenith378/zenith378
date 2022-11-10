@@ -15,7 +15,7 @@
   <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact" width="370"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenith378&layout=compact&hide=jupyter%20notebook" width="370"/>
 </a>
 
 
