@@ -7,7 +7,7 @@
 
 - 📌 Currently based in **Pisa, Tuscany**
 
-- 🌍 I flyently speak **Italian 🇮🇹, English 🇬🇧 and German 🇩🇪**
+- 🌍 I fluently speak **Italian 🇮🇹, English 🇬🇧 and German 🇩🇪**
 
 - 🔭 I have a BSc degree in **Physics**
 
