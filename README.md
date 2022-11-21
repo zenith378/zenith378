@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270" />
   <br />
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenith378&label=Profile%20views&color=0e75b6&style=flat" alt="zenith378" height="28" width="130" /> <a href="https://twitter.com/giuliocordova" target="blank"><img src="https://img.shields.io/twitter/follow/giuliocordova?logo=twitter&style=for-the-badge" alt="GiulioCordova" /></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenith378&label=Profile%20views&color=0e75b6&style=flat" alt="zenith378" height="28" width="150" /> <a href="https://twitter.com/giuliocordova" target="blank"><img src="https://img.shields.io/twitter/follow/giuliocordova?logo=twitter&style=for-the-badge" alt="GiulioCordova" /></a> </p>
 
 - 📌 Currently based in **Pisa, Tuscany**
 
