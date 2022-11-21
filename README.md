@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/giuliocordova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuliocordova" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" alt="Giulio Cordova" height="30" width="40" /></a>
 </p>
+  <br />
 
 <a href="https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786">
   <img align="right" src="https://novatorem-zenith378.vercel.app/api/spotify"/>
