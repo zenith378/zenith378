@@ -1,5 +1,5 @@
  # <h1 align="center">Hey there, Zenith here 🌊</h1>
- Passionate high energy physics student, mountain enthusiast and greedy music seeker.
+ Passionate high energy physics student, mountain enthusiast and greedy seeker of new tunes.
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270" />
   <br />
 - 📌 Currently based in **Pisa, Tuscany**
