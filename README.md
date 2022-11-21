@@ -1,7 +1,5 @@
  # <h1 align="center">Hey there, Zenith here 🌊</h1>
- 
- [![Spotify](https://novatorem-zenith378.vercel.app/api/spotify)](https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786)
- 
+  
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="270" />
   <br />
   
@@ -36,4 +34,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zenith378&show_icons=true&theme=nord" width="420" />
 </a>
+
+<a href="https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786">
+  <img align="left" src="https://novatorem-zenith378.vercel.app/api/spotify"/>
+</a>
+
+ [![Spotify](https://novatorem-zenith378.vercel.app/api/spotify)](https://open.spotify.com/user/1183626013?si=3cd5c3dd16744786)
 
