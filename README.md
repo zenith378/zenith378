@@ -8,7 +8,7 @@
 
 - 🔭 I have a BSc degree in **Physics**
 
-- 📊 Currently Studying for MSc degree in **Data Analysis**
+- 📊 Currently Studying for MSc degree in **Data Analysis in High Energy Physics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
